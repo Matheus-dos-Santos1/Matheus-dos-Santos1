@@ -13,6 +13,15 @@
   <img align="center" alt="Matheus-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
 ##
+## 📖 Sobre Mim
+Sou estudante de Engenharia de Computação com grande interesse em redes de computadores e cibersegurança. Tenho paixão por compreender como os sistemas se conectam e se comunicam, além de desenvolver soluções voltadas para segurança digital e proteção de dados. Atualmente, dedico-me a explorar práticas de defesa contra ameaças cibernéticas, análise de vulnerabilidades e implementação de estratégias de segurança em ambientes corporativos e industriais. Meu foco está em unir conhecimento técnico com pensamento crítico, buscando sempre aprimorar habilidades em pesquisa, resolução de problemas e colaboração em projetos que envolvam infraestrutura de TI e segurança da informação.
+
+## ## 🔓 Habilidades | Skills
+- **Linguagens de Programação | Programming Languages:** Python, C/C++, Java, JavaScript, Bash, SQL, Go  
+- **Bibliotecas & Ferramentas | Libraries & Tools:** NumPy, Pandas, Git, GitHub, Linux, Docker, VirtualBox, VMware  
+- **Redes & Cibersegurança | Networks & Cybersecurity:** TCP/IP, Firewalls, IDS/IPS, Criptografia, Pentesting, Ethical Hacking, Segurança em Redes Industriais, Wireshark, Nmap, Metasploit, Kali Linux, Snort  
+- **Idiomas | Languages:** Português (Nativo | Native), Inglês (Fluente | Fluent)
+
  
 <div> 
   <a href="https://www.instagram.com/math_saints1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
